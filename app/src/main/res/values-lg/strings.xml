@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Imani</string>
+    
+    <!-- Navigation -->
+    <string name="nav_prayer_times">Ebiro byokusaba</string>
+    <string name="nav_qibla">Kibla</string>
+    <string name="nav_quran">Kuraani</string>
+    <string name="nav_dua">Dua</string>
+    <string name="nav_mosques">Emizikiti</string>
+    
+    <!-- Prayer Times -->
+    <string name="prayer_fajr">Fajr</string>
+    <string name="prayer_sunrise">Enjuba</string>
+    <string name="prayer_dhuhr">Dhuhr</string>
+    <string name="prayer_asr">Asr</string>
+    <string name="prayer_maghrib">Maghrib</string>
+    <string name="prayer_isha">Isha</string>
+    
+    <!-- Arabic Prayer Names -->
+    <string name="prayer_fajr_arabic">الفجر</string>
+    <string name="prayer_sunrise_arabic">الشروق</string>
+    <string name="prayer_dhuhr_arabic">الظهر</string>
+    <string name="prayer_asr_arabic">العصر</string>
+    <string name="prayer_maghrib_arabic">المغرب</string>
+    <string name="prayer_isha_arabic">العشاء</string>
+    
+    <!-- Qibla -->
+    <string name="qibla_direction">Obubanga bwa Kibla</string>
+    <string name="qibla_compass">Compass</string>
+    <string name="qibla_distance">Obugazi okutuuka ku Kaaba</string>
+    
+    <!-- Quran -->
+    <string name="quran_reader">Omusomi wa Kuraani</string>
+    <string name="quran_bookmarks">Obubaka</string>
+    <string name="quran_search">Noonya</string>
+    <string name="surah">Surah</string>
+    <string name="ayah">Ayah</string>
+    <string name="quran_kareem">القرآن الكريم</string>
+    <string name="noble_quran">Kuraani Entukuvu</string>
+    <string name="search_quran">Noonya mu Kuraani</string>
+    <string name="translation">Okuvvuunula</string>
+    <string name="font_size">Obunene bw ennukuta</string>
+    <string name="bookmark_added">Obubaka bwongeddwa</string>
+    <string name="bookmark_removed">Obubaka bwaggyiddwa</string>
+    <string name="add_bookmark">Gattako Obubaka</string>
+    <string name="remove_bookmark">Ggyawo Obubaka</string>
+    <string name="bookmark_note">Gattako ekiwandiiko</string>
+    <string name="verses">emboozi</string>
+    <string name="meccan">Meccan</string>
+    <string name="medinan">Medinan</string>
+    <string name="juz">Juz</string>
+    <string name="page">Olupapula</string>
+    <string name="progress">Enkulaakulana</string>
+    
+    <!-- Du'a -->
+    <string name="dua_generator">Okusaba kwa AI</string>
+    <string name="dua_favorites">Okusaba kwe njagala</string>
+    <string name="dua_categories">Ebika</string>
+    <string name="ai_disclaimer">Kino kikolebwa AI. Nsaba obuuze omuyigiriza w eddiini.</string>
+    
+    <!-- Mosques -->
+    <string name="mosque_finder">Okuzuula Emizikiti</string>
+    <string name="mosque_nearby">Emizikiti egiri okumpi</string>
+    <string name="mosque_jummah">Okusaba kwa Jummah</string>
+    <string name="mosque_women">Okusaba kwa bakyala</string>
+    <string name="mosque_wudu">Ebifo bya Wudu</string>
+    
+    <!-- Common -->
+    <string name="loading">Okutikka</string>
+    <string name="error">Ensobi</string>
+    <string name="retry">Ddamu okugezaako</string>
+    <string name="save">Kuuma</string>
+    <string name="cancel">Sazaamu</string>
+    <string name="delete">Sazaamu</string>
+    <string name="share">Gabana</string>
+    <string name="favorite">Kyenjagala</string>
+    
+    <!-- Permissions -->
+    <string name="permission_location_title">Okukkiriza Ekifo</string>
+    <string name="permission_location_message">Pulogulaamu eno yeetaaga ekifo kyo okuwa ebiro byokusaba ebituufu n obubanga bwa Kibla.</string>
+    <string name="permission_denied">Okukkiriza kwagaaniddwa</string>
+    
+    <!-- Islamic Greetings -->
+    <string name="assalamu_alaikum">Assalamu Alaikum</string>
+    <string name="bismillah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</string>
+    <string name="alhamdulillah">الحمد لله</string>
+
+    <string name="holy_quran">Quraani Entukuvu</string>
+    <string name="prayer_times">Ebiro byokusaba</string>
+
+    <!-- Qibla Screen -->
+    <string name="qibla_heading">Obubanga bwa Kibla</string>
+    <string name="qibla_subheading">Ekkubo okutuuka ku Kaaba, Mecca</string>
+    <string name="qibla_permission_title">Okukkiriza Ekifo Kyote Kyetaagisa</string>
+    <string name="qibla_permission_message">Twetaaga ekifo kyo okubalirira obubanga obutuufu bwa Kibla.</string>
+    <string name="qibla_permission_button">Waayo Okukkiriza Ekifo</string>
+    <string name="qibla_info_heading">Obubaka bwa Kibla</string>
+    <string name="qibla_info_direction_title">Ebbanga</string>
+    <string name="qibla_info_distance_title">Obugazi</string>
+    <string name="qibla_info_distance_subtitle">okutuuka ku Kaaba</string>
+    <string name="qibla_info_calibration_tip">Kwatako essimu yo mu ngeri yeewaliriza ebintu ebikyejje okufuna obulungi.</string>
+
+    <!-- Quran Screen -->
+    <string name="loading_quran">Okutikka Kuraani</string>
+    <string name="no_surahs_found">Tewali Sula zazuuliddwa</string>
+    <string name="unable_load_quran">Ebanja okutikka Kuraani. Kebera enternetiyo olwo ozzeeyo okuddamu.</string>
+    <string name="load_quran">Tikka Kuraani</string>
+</resources> 

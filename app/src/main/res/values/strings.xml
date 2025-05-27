@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Imani App</string>
+    
+    <!-- Navigation -->
+    <string name="nav_prayer_times">Prayer Times</string>
+    <string name="nav_qibla">Qibla</string>
+    <string name="nav_quran">Quran</string>
+    <string name="nav_dua">Du\'a</string>
+    <string name="nav_mosques">Mosques</string>
+    
+    <!-- Prayer Times -->
+    <string name="prayer_fajr">Fajr</string>
+    <string name="prayer_sunrise">Sunrise</string>
+    <string name="prayer_dhuhr">Dhuhr</string>
+    <string name="prayer_asr">Asr</string>
+    <string name="prayer_maghrib">Maghrib</string>
+    <string name="prayer_isha">Isha</string>
+    
+    <!-- Arabic Prayer Names -->
+    <string name="prayer_fajr_arabic">الفجر</string>
+    <string name="prayer_sunrise_arabic">الشروق</string>
+    <string name="prayer_dhuhr_arabic">الظهر</string>
+    <string name="prayer_asr_arabic">العصر</string>
+    <string name="prayer_maghrib_arabic">المغرب</string>
+    <string name="prayer_isha_arabic">العشاء</string>
+    
+    <!-- Qibla -->
+    <string name="qibla_direction">Qibla Direction</string>
+    <string name="qibla_compass">Compass</string>
+    <string name="qibla_distance">Distance to Kaaba</string>
+    
+    <!-- Quran -->
+    <string name="quran_reader">Quran Reader</string>
+    <string name="quran_bookmarks">Bookmarks</string>
+    <string name="quran_search">Search</string>
+    <string name="surah">Surah</string>
+    <string name="ayah">Ayah</string>
+    <string name="quran_kareem">القرآن الكريم</string>
+    <string name="noble_quran">The Noble Quran</string>
+    <string name="search_quran">Search in Quran...</string>
+    <string name="translation">Translation</string>
+    <string name="font_size">Font Size</string>
+    <string name="bookmark_added">Bookmark added</string>
+    <string name="bookmark_removed">Bookmark removed</string>
+    <string name="add_bookmark">Add Bookmark</string>
+    <string name="remove_bookmark">Remove Bookmark</string>
+    <string name="bookmark_note">Add a note (optional)</string>
+    <string name="verses">verses</string>
+    <string name="meccan">Meccan</string>
+    <string name="medinan">Medinan</string>
+    <string name="juz">Juz</string>
+    <string name="page">Page</string>
+    <string name="progress">Progress</string>
+    
+    <!-- Du'a -->
+    <string name="dua_generator">Du\'a Generator</string>
+    <string name="dua_favorites">Favorite Du\'as</string>
+    <string name="dua_categories">Categories</string>
+    <string name="ai_disclaimer">⚠️ This is AI-generated. Please consult a scholar for rulings.</string>
+    
+    <!-- Mosques -->
+    <string name="mosque_finder">Mosque Finder</string>
+    <string name="mosque_nearby">Nearby Mosques</string>
+    <string name="mosque_jummah">Jummah Prayer</string>
+    <string name="mosque_women">Women\'s Prayer</string>
+    <string name="mosque_wudu">Wudu Facilities</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    
+    <!-- Permissions -->
+    <string name="permission_location_title">Location Permission</string>
+    <string name="permission_location_message">This app needs location access to provide accurate prayer times and Qibla direction.</string>
+    <string name="permission_denied">Permission denied</string>
+    
+    <!-- Islamic Greetings -->
+    <string name="assalamu_alaikum">Assalamu Alaikum</string>
+    <string name="bismillah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</string>
+    <string name="alhamdulillah">الحمد لله</string>
+
+    <string name="holy_quran">Holy Quran</string>
+    <string name="prayer_times">Prayer Times</string>
+
+    <!-- Qibla Screen -->
+    <string name="qibla_heading">Qibla Direction</string>
+    <string name="qibla_subheading">Direction to Kaaba, Mecca</string>
+    <string name="qibla_permission_title">Location Permission Required</string>
+    <string name="qibla_permission_message">We need your location to calculate the accurate Qibla direction.</string>
+    <string name="qibla_permission_button">Grant Location Permission</string>
+    <string name="qibla_info_heading">Qibla Information</string>
+    <string name="qibla_info_direction_title">Direction</string>
+    <string name="qibla_info_distance_title">Distance</string>
+    <string name="qibla_info_distance_subtitle">to Kaaba</string>
+    <string name="qibla_info_calibration_tip">Hold your phone flat and away from magnetic objects for accurate readings.</string>
+
+    <!-- Quran Screen -->
+    <string name="loading_quran">Loading Quran...</string>
+    <string name="no_surahs_found">No Surahs Found</string>
+    <string name="unable_load_quran">Unable to load Quran content. Please check your internet connection and try again.</string>
+    <string name="load_quran">Load Quran</string>
+</resources>

@@ -1,0 +1,20 @@
+# This file contains the local configuration for the Imani App
+# Copy this file to local.properties and add your actual API keys
+
+# Android SDK location
+sdk.dir=/Users/username/Library/Android/sdk
+
+# Google Maps API Key
+# Get your API key from: https://console.cloud.google.com/apis/credentials
+MAPS_API_KEY=your_google_maps_api_key_here
+
+# Supabase Configuration
+# Get these from your Supabase project dashboard: https://supabase.com/dashboard
+SUPABASE_URL=your_supabase_project_url
+SUPABASE_ANON_KEY=your_supabase_anon_key
+
+# Optional: Supabase Service Role Key (for admin operations)
+SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
+
+# Optional: OpenAI API Key (for AI Du'a generation)
+OPENAI_API_KEY=your_openai_api_key 

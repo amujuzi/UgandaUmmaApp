@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Islamic Green Palette -->
+    <color name="islamic_green">#2E7D32</color>
+    <color name="islamic_green_light">#66BB6A</color>
+    <color name="islamic_green_dark">#1B5E20</color>
+    
+    <!-- Islamic Gold/Amber Palette -->
+    <color name="islamic_gold">#FFB300</color>
+    <color name="islamic_gold_light">#FFD54F</color>
+    <color name="islamic_gold_dark">#FF8F00</color>
+    
+    <!-- Neutral Colors -->
+    <color name="islamic_white">#FAFAFA</color>
+    <color name="islamic_cream">#F5F5DC</color>
+    <color name="islamic_beige">#EFEBE9</color>
+    
+    <!-- Standard Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <!-- Error and Warning -->
+    <color name="error_red">#D32F2F</color>
+    <color name="warning_orange">#FF9800</color>
+    
+    <!-- Prayer Time Colors -->
+    <color name="fajr_color">#3F51B5</color>
+    <color name="dhuhr_color">#FF9800</color>
+    <color name="asr_color">#FF5722</color>
+    <color name="maghrib_color">#9C27B0</color>
+    <color name="isha_color">#673AB7</color>
+    
+    <!-- Qibla Compass Colors -->
+    <color name="compass_primary">#2E7D32</color>
+    <color name="compass_secondary">#FFB300</color>
+    <color name="compass_background">#F5F5F5</color>
+</resources>

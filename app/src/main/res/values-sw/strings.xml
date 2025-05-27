@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Imani</string>
+    
+    <!-- Navigation -->
+    <string name="nav_prayer_times">Nyakati za Sala</string>
+    <string name="nav_qibla">Kibla</string>
+    <string name="nav_quran">Qurani</string>
+    <string name="nav_dua">Dua</string>
+    <string name="nav_mosques">Misikiti</string>
+    
+    <!-- Prayer Times -->
+    <string name="prayer_fajr">Fajr</string>
+    <string name="prayer_sunrise">Mchana</string>
+    <string name="prayer_dhuhr">Dhuhr</string>
+    <string name="prayer_asr">Asr</string>
+    <string name="prayer_maghrib">Maghrib</string>
+    <string name="prayer_isha">Isha</string>
+    
+    <!-- Arabic Prayer Names -->
+    <string name="prayer_fajr_arabic">الفجر</string>
+    <string name="prayer_sunrise_arabic">الشروق</string>
+    <string name="prayer_dhuhr_arabic">الظهر</string>
+    <string name="prayer_asr_arabic">العصر</string>
+    <string name="prayer_maghrib_arabic">المغرب</string>
+    <string name="prayer_isha_arabic">العشاء</string>
+    
+    <!-- Qibla -->
+    <string name="qibla_direction">Mwelekeo wa Kibla</string>
+    <string name="qibla_compass">Dira</string>
+    <string name="qibla_distance">Umbali hadi Kaaba</string>
+    
+    <!-- Quran -->
+    <string name="quran_reader">Msomaji wa Qurani</string>
+    <string name="quran_bookmarks">Alamisho</string>
+    <string name="quran_search">Tafuta</string>
+    <string name="surah">Sura</string>
+    <string name="ayah">Aya</string>
+    <string name="quran_kareem">القرآن الكريم</string>
+    <string name="noble_quran">Qurani Tukufu</string>
+    <string name="search_quran">Tafuta katika Qurani...</string>
+    <string name="translation">Tafsiri</string>
+    <string name="font_size">Ukubwa wa Fonti</string>
+    <string name="bookmark_added">Alamishi imeongezwa</string>
+    <string name="bookmark_removed">Alamishi imeondolewa</string>
+    <string name="add_bookmark">Ongeza Alamishi</string>
+    <string name="remove_bookmark">Ondoa Alamishi</string>
+    <string name="bookmark_note">Ongeza maelezo (si lazima)</string>
+    <string name="verses">aya</string>
+    <string name="meccan">Makka</string>
+    <string name="medinan">Madina</string>
+    <string name="juz">Juz</string>
+    <string name="page">Ukurasa</string>
+    <string name="progress">Maendeleo</string>
+    
+    <!-- Du'a -->
+    <string name="dua_generator">Dua ya AI</string>
+    <string name="dua_favorites">Dua za Kipendwa</string>
+    <string name="dua_categories">Makundi</string>
+    <string name="ai_disclaimer">⚠️ Hii ni ya AI. Tafadhali uliza mwalimu wa dini.</string>
+    
+    <!-- Mosques -->
+    <string name="mosque_finder">Kipata Msikiti</string>
+    <string name="mosque_nearby">Misikiti ya Karibu</string>
+    <string name="mosque_jummah">Sala ya Ijumaa</string>
+    <string name="mosque_women">Sala ya Wanawake</string>
+    <string name="mosque_wudu">Vifaa vya Wudu</string>
+    
+    <!-- Common -->
+    <string name="loading">Inapakia...</string>
+    <string name="error">Hitilafu</string>
+    <string name="retry">Jaribu Tena</string>
+    <string name="save">Hifadhi</string>
+    <string name="cancel">Ghairi</string>
+    <string name="delete">Futa</string>
+    <string name="share">Shiriki</string>
+    <string name="favorite">Kipendwa</string>
+    
+    <!-- Permissions -->
+    <string name="permission_location_title">Ruhusa ya Mahali</string>
+    <string name="permission_location_message">Programu hii inahitaji mahali ili kutoa nyakati sahihi za sala na mwelekeo wa Kibla.</string>
+    <string name="permission_denied">Ruhusa imekataliwa</string>
+    
+    <!-- Islamic Greetings -->
+    <string name="assalamu_alaikum">Assalamu Alaikum</string>
+    <string name="bismillah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</string>
+    <string name="alhamdulillah">الحمد لله</string>
+
+    <string name="holy_quran">Qurani Tukufu</string>
+    <string name="prayer_times">Nyakati za Sala</string>
+
+    <!-- Qibla Screen -->
+    <string name="qibla_heading">Mwelekeo wa Kibla</string>
+    <string name="qibla_subheading">Mwelekeo kuelekea Kaaba, Makka</string>
+    <string name="qibla_permission_title">Ruhusa ya Mahali Inahitajika</string>
+    <string name="qibla_permission_message">Tunahitaji mahali ulipo ili kuhesabu mwelekeo sahihi wa Kibla.</string>
+    <string name="qibla_permission_button">Ruhusu Mahali</string>
+    <string name="qibla_info_heading">Taarifa ya Kibla</string>
+    <string name="qibla_info_direction_title">Mwelekeo</string>
+    <string name="qibla_info_distance_title">Umbali</string>
+    <string name="qibla_info_distance_subtitle">hadi Kaaba</string>
+    <string name="qibla_info_calibration_tip">Shikilia simu yako wima na mbali na vitu vya sumaku kwa usomaji sahihi.</string>
+
+    <!-- Quran Screen -->
+    <string name="loading_quran">Inapakia Qurani...</string>
+    <string name="no_surahs_found">Hakuna Sura Zimepatikana</string>
+    <string name="unable_load_quran">Imeshindwa kupakia Qurani. Tafadhali angalia muunganisho wa intaneti na ujaribu tena.</string>
+    <string name="load_quran">Pakia Qurani</string>
+</resources> 

@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">إيماني</string>
+    
+    <!-- Navigation -->
+    <string name="nav_prayer_times">مواقيت الصلاة</string>
+    <string name="nav_qibla">القبلة</string>
+    <string name="nav_quran">القرآن</string>
+    <string name="nav_dua">الدعاء</string>
+    <string name="nav_mosques">المساجد</string>
+    
+    <!-- Prayer Times -->
+    <string name="prayer_fajr">الفجر</string>
+    <string name="prayer_sunrise">الشروق</string>
+    <string name="prayer_dhuhr">الظهر</string>
+    <string name="prayer_asr">العصر</string>
+    <string name="prayer_maghrib">المغرب</string>
+    <string name="prayer_isha">العشاء</string>
+    
+    <!-- Arabic Prayer Names -->
+    <string name="prayer_fajr_arabic">الفجر</string>
+    <string name="prayer_sunrise_arabic">الشروق</string>
+    <string name="prayer_dhuhr_arabic">الظهر</string>
+    <string name="prayer_asr_arabic">العصر</string>
+    <string name="prayer_maghrib_arabic">المغرب</string>
+    <string name="prayer_isha_arabic">العشاء</string>
+    
+    <!-- Qibla -->
+    <string name="qibla_direction">اتجاه القبلة</string>
+    <string name="qibla_compass">البوصلة</string>
+    <string name="qibla_distance">المسافة إلى الكعبة</string>
+    
+    <!-- Quran -->
+    <string name="quran_reader">قارئ القرآن</string>
+    <string name="quran_bookmarks">العلامات المرجعية</string>
+    <string name="quran_search">البحث</string>
+    <string name="surah">سورة</string>
+    <string name="ayah">آية</string>
+    <string name="quran_kareem">القرآن الكريم</string>
+    <string name="noble_quran">القرآن الكريم</string>
+    <string name="search_quran">البحث في القرآن...</string>
+    <string name="translation">الترجمة</string>
+    <string name="font_size">حجم الخط</string>
+    <string name="bookmark_added">تمت إضافة العلامة المرجعية</string>
+    <string name="bookmark_removed">تمت إزالة العلامة المرجعية</string>
+    <string name="add_bookmark">إضافة علامة مرجعية</string>
+    <string name="remove_bookmark">إزالة العلامة المرجعية</string>
+    <string name="bookmark_note">إضافة ملاحظة (اختياري)</string>
+    <string name="verses">آيات</string>
+    <string name="meccan">مكية</string>
+    <string name="medinan">مدنية</string>
+    <string name="juz">جزء</string>
+    <string name="page">صفحة</string>
+    <string name="progress">التقدم</string>
+    
+    <!-- Du'a -->
+    <string name="dua_generator">مولد الدعاء بالذكاء الاصطناعي</string>
+    <string name="dua_favorites">الأدعية المفضلة</string>
+    <string name="dua_categories">الفئات</string>
+    <string name="ai_disclaimer">⚠️ هذا مولد بالذكاء الاصطناعي. يرجى استشارة عالم للأحكام.</string>
+    
+    <!-- Mosques -->
+    <string name="mosque_finder">البحث عن المساجد</string>
+    <string name="mosque_nearby">المساجد القريبة</string>
+    <string name="mosque_jummah">صلاة الجمعة</string>
+    <string name="mosque_women">صلاة النساء</string>
+    <string name="mosque_wudu">مرافق الوضوء</string>
+    
+    <!-- Common -->
+    <string name="loading">جاري التحميل...</string>
+    <string name="error">خطأ</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="share">مشاركة</string>
+    <string name="favorite">مفضل</string>
+    
+    <!-- Permissions -->
+    <string name="permission_location_title">إذن الموقع</string>
+    <string name="permission_location_message">يحتاج هذا التطبيق إلى الوصول للموقع لتوفير مواقيت الصلاة الدقيقة واتجاه القبلة.</string>
+    <string name="permission_denied">تم رفض الإذن</string>
+    
+    <!-- Islamic Greetings -->
+    <string name="assalamu_alaikum">السلام عليكم</string>
+    <string name="bismillah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</string>
+    <string name="alhamdulillah">الحمد لله</string>
+
+    <string name="holy_quran">القرآن الكريم</string>
+    <string name="prayer_times">مواقيت الصلاة</string>
+
+    <!-- Qibla Screen -->
+    <string name="qibla_heading">اتجاه القبلة</string>
+    <string name="qibla_subheading">الاتجاه نحو الكعبة، مكة</string>
+    <string name="qibla_permission_title">مطلوب إذن الموقع</string>
+    <string name="qibla_permission_message">نحتاج إلى موقعك لحساب اتجاه القبلة بدقة.</string>
+    <string name="qibla_permission_button">منح إذن الموقع</string>
+    <string name="qibla_info_heading">معلومات القبلة</string>
+    <string name="qibla_info_direction_title">الاتجاه</string>
+    <string name="qibla_info_distance_title">المسافة</string>
+    <string name="qibla_info_distance_subtitle">إلى الكعبة</string>
+    <string name="qibla_info_calibration_tip">ضع هاتفك على سطح مستوٍ بعيداً عن الأجسام المغناطيسية لقراءة أدق.</string>
+
+    <!-- Quran Screen -->
+    <string name="loading_quran">جاري تحميل القرآن...</string>
+    <string name="no_surahs_found">لم يتم العثور على سور</string>
+    <string name="unable_load_quran">تعذر تحميل محتوى القرآن. يرجى التحقق من اتصال الإنترنت والمحاولة مرة أخرى.</string>
+    <string name="load_quran">تحميل القرآن</string>
+</resources> 
